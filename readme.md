@@ -1,106 +1,137 @@
+# Musical tone (Plan-english)
+
+By *computational(digital) music analysis* the first basic knowledge is a **musical tone**. The musical tone will be hier explained and visualised from different dimensions:
+
+- Physic  
+
+- Mathematic
+
+- Music theory
 
 
-_____
-*english*
-# Musical tone
+**Musical tone** is a periodic sound, characterised by:
 
- Musical tone-periodic sound, characterised by its duration, pitch, loudness(intecity), timbre(quality).
+- Duration
 
- The fundamental knowledge about ton is his harmony analysis. With harmony analysis of a ton we can explane the Pitch, Timbre, and also Loudness. 
+- Pitch
 
-Every ton is a complex ton.
- 
+- Loudness(intecity)
 
-  1. Complexity
+- Timbre(quality)
 
-        * Harmonic series (Physic )
-            > complex tone- combination of many simple periodic waves(pure tones), harmonically related. 
+## 1. Complexity of a tone
 
-        * Partials (Music theory)
+ Every tone is a complex tone. Complex tone - combination of many simple periodic waves(pure tones), harmonically related.
 
-            > Every fundamental tone has his Overtones (harmonics,partials)
+- Harmonic series (Physic)
 
-        * Furier series (Mathematic)
+  - circle motion
 
-            > "any periodic waveform can be approximated as a sum of a serias of sinusoidal (sine,cosine) waves" (Furier theorem)
+  - waveform
 
-       * Furier transform- Frequenz domain of a ton (Math)
-    
-   2. Intencity 
+- Partials (Music theory)
 
-        *  Pegel(Physic, Elektronic) 
-        *  Hearing pressure, Loudness (Physic, ear anatomy)
-        *  Dinamic (Music theory)
+- Harmonic analysis (Mathematic)
 
-  3. Timbre (Quality)
-        * Harmonic scale (Music theory)
-        * Fermanten by harmonic series, fermanten(Physic)
-        * Instruments
+  - Trigonometric polinomial, derivatives (Realplane)
 
-  4. Duration
-        * Time , Envelope (Physic)
-        * Noteduration (Musciktheory)
+  - complexe plane, vector(Linear Algebra), fourier coefficient
 
-  5. Notesystem is based on the harmonic series
+  - fourieseries
+     > "any periodic waveform can be approximated as a sum of a serias of sinusoidal (sine,cosine) waves" (Furier theorem)
 
-        * partialscale (Physic)
+  - Furier transform - Frequenz domain of a ton 
 
-        * Tonsystem (Musictheory, Physic)
+## 2. Intencity
 
-        * Tunning
+- Pegel(Physic, Elektronic)
 
-        * Scale
+- Hearing pressure, Loudness (Physic, ear anatomy)
 
+- Dinamic (Music theory)
 
+## 3. Timbre (Quality)
 
-___
-*deutsch*
+- Harmonic scale (Music theory)
 
-# Musicalische Tone / Klang
+- Fermanten by harmonic series, fermanten(Physic)
 
-Musicalische Klang ist ein periodische Schall. Characteristik von Klang: Tonhöhe, Tembre(Klangfarbe), Dinamic, Notendauer. 
+- Instruments
 
-Der basic Wissens über den Klang ist sein harmonische Analyse. 
+## 4. Duration
 
-Jeder Klang ist ein gemisch aus Grundton und Obertöne.
+- Time , Envelope (Physic)
 
- 1. Komplexität von Tone
+- Noteduration (Musciktheory)
 
-    * harmonische analyse (Physik)
-    * Harmonischetonreihe (musik Theorie)
+## 5. Notesystem is based on the harmonic series
 
-    * Fourierreihen (Mathematik)
+- partialscale (Physic)
 
-    * Frequenzdomain -Fourier transform (Mathematik)
+- Tonsystem (Musictheory, Physic)
 
-2. Intensität
+- Tunning
 
-   * pegel (Physik, Elektronik)
+- Scale
 
-   * Lautstärke, Lautheit (Physik, Akustik)
+# Musicalische Ton / Klang (Plan-Deutsch)
 
-   * Dynamin(Musik Theorie)
+ Ein musicalische Klang ist der  Grundwissen bei computergestüzte(digitale) Musikanalyse. 
+Hier werden wir von verschiedene Dimensionen den Klang betrachten und Visualisieren:
 
-3. Tembre (Klangfarbe)
+- Physik
 
-   * Harmonischetonreihe (Musik Theorie)
+- Mathematik
 
-   * Fermanten, Form von klangwelle (Physik)
+- Musiktheory
 
-   * Instrumenten (Akustik)
+ Ein  **Klang** ist ein Tongemisch und besteht aus viele reine Töne. Ein **Ton** (reine Ton, Sinuston)  ist ein **Schall** mit  periodische Schwinkungen(sinusoidal welle )
 
-4. Tondauer
+Characteristik von Klang:
 
-   * Zeit (Physic)
+- Tonhöhe
 
-   * Notenwert (Musiktheory)
+- Tembre(Klangfarbe)
 
+- Dinamik
 
-5. Notensystem
+- Notendauer.
+
+## 1. "Tongemisch"
+
+- harmonische analyse (Physik)
+
+- Harmonischetonreihe (musik Theorie)
+
+- Fourierreihen (Mathematik)
+
+- Frequenzdomain -Fourier transform (Mathematik)
+
+## 2. Intensität
+
+* pegel (Physik, Elektronik)
+
+* Lautstärke, Lautheit (Physik, Akustik)
+
+* Dynamik (Musik Theorie)
+
+ 3.Tembre (Klangfarbe)
+
+* Harmonischetonreihe (Musik Theorie)
+
+* Fermanten, Form von klangwelle (Physik)
+
+* Instrumenten (Akustik)
+
+ 4.Tondauer
+
+* Zeit (Physic)
+
+* Notenwert (Musiktheory)
+
+ 5.Notensystem
 
     * Natürtonreihe,  ein basis für notationsystem
     * Notationsystem
     * stimmung/ temperatur
-    * Scale
-
-
+    * Scale/Tonreihe
