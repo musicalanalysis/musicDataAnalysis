@@ -2,7 +2,7 @@
 
 _____
 *english*
-# Music tone
+# Musical tone
 
  Musical tone-periodic sound, characterised by its duration, pitch, loudness(intecity), timbre(quality).
 
