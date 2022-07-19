@@ -17,7 +17,7 @@ By *computational(digital) music analysis* the first basic knowledge is a **musi
 
 - Loudness(intecity)
 
-- Timbre(quality)
+- Timbre(Ton quality)
 
 ## 1. Complexity of a tone
 

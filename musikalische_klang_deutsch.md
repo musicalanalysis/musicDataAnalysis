@@ -1,6 +1,6 @@
-# Musicalische Ton / Klang (Plan-Deutsch)
+# Ton 
 
- Ein musicalische Klang ist der  Grundwissen bei computergestüzte(digitale) Musikanalyse. 
+ Ein  **Ton** (ein musikalische Klang) ist der Grundwissen bei computergestüzte(digitale) Musikanalyse. 
 Hier werden wir von verschiedene Dimensionen den Klang betrachten und Visualisieren:
 
 - Physik
@@ -9,9 +9,9 @@ Hier werden wir von verschiedene Dimensionen den Klang betrachten und Visualisie
 
 - Musiktheory
 
- Ein  **Klang** ist ein Tongemisch und besteht aus viele reine Töne. Ein **Ton** (reine Ton, Sinuston)  ist ein **Schall** mit  periodische Schwinkungen(sinusoidal welle )
+> Ein  **Ton** ist ein Komplexton und besteht aus viele reine Töne. Ein **Reine Ton** (Sinuston)  ist ein **Schall** mit  periodische Schwinkungen(sinusoidal welle )
 
-Characteristik von Klang:
+Characteristik von Ton:
 
 - Tonhöhe
 
@@ -19,13 +19,13 @@ Characteristik von Klang:
 
 - Dinamik
 
-- Notendauer.
+- Notendauer 
 
-## 1. "Tongemisch"
+## 1. Ton
 
 - harmonische analyse (Physik)
 
-- Harmonischetonreihe (musik Theorie)
+- Naturtonreihe (musik Theorie)
 
 - Fourierreihen (Mathematik)
 
@@ -39,7 +39,7 @@ Characteristik von Klang:
 
 * Dynamik (Musik Theorie)
 
- 3.Tembre (Klangfarbe)
+## 3.Timbre (Klangfarbe)
 
 * Harmonischetonreihe (Musik Theorie)
 
@@ -47,15 +47,15 @@ Characteristik von Klang:
 
 * Instrumenten (Akustik)
 
- 4.Tondauer
+## 4.Tondauer
 
 * Zeit (Physic)
 
 * Notenwert (Musiktheory)
 
- 5.Notensystem
+## 5.Notensystem
 
-    * Natürtonreihe,  ein basis für notationsystem
-    * Notationsystem
-    * stimmung/ temperatur
-    * Scale/Tonreihe
+* Tonhöhe
+* Notationsystem(Natürtonreihe,  ein basis)
+* stimmung/ temperatur
+* Scale/Tonreihe , ein basis für Notenschrift
