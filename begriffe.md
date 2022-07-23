@@ -1,29 +1,113 @@
-### Die wisenschaftliche einstimmung von musicalische Parameters in Deutsch und Englisch (Tabelle)
+### Die wisenschaftliche einstimmung (Äquivalent) von musicalische Begriffen in Deutsch und Englisch (Tabelle)
 
-| Musiktheorie | Musictheory | Elektro-akustik | Electro-acustic |
+| Musiktheorie | Music theory | Elektro-akustik | Electro-acustic |
 |:---:|:---:|:---:|:---:|
 | *deutsch* | *english* | *deutsch* | *english* |
-| Teilton | Ton | Reinerton, Sinuston |  |
-| Ton (aus Teiltöne) | Ton | Klang (aus harmonische Töne) |  |
-| unharmonische Ton(Glocken) |  | Tongemisch |  |
+| Teilton | partial | Reinerton, Sinuston |  |
+| **Ton** | Tone | Klang (aus harmonische Töne) |  |
+| unharmonische Ton(Glocken) | inharmonic Tone | Tongemisch |  |
 | Geräusch |  | rauschen |  |
 | Lärm |  | weißes Rauschen |  |
-| Akkord | Chord | Zusammenklang/Klanggemisch |  |
-| Intervall | Interval | Zusammenklang/Klanggemisch |  |
 | Tonhöhe | Pitsh | Frequenz | Frequency |
-| Tonsystem | Pitsh space |  |  |
-| Stimmung | Tunning |  |  |
-| Skale | Scale |  |  |
-| Tonalität | Tonality |  |  |
-| Harmonie | Harmony |  |  |
 | Timbre | Timbre | Klangfarbe | Ton color  |
 | Tondauer | Tonduration | Dauer | Duration |
 | Dinamik | Dinamic | Lautheit | Loudness |
-| Tonsatz | Texture |  |  |
-| Instrument | Instrument |  |  |
-| Rhytmus | rhytm | Puls |  |
-| Tempo | Tempo | Zeit | Time |
+|-----------| ---------| | |
+| **Tonsystem** | Pitsh space |  |  |
+| Stimmung | Tunning |  |  |
+| Skale | Scale |  |  |
 | Klaviatur | Keybourd |  |  |
+|Notensystem|Staff|||
+|---------|---------|||
+|**Notenschrift**|Staffnotation|||
+|Partitur|Score|||
+|Srimme |Part|||
+|Takt| Measure|||
+|Versetzungszeichen|accidental|||
+|Kreuz|Sharp|||
+|Be|Flat|||
+|Auflösungszeichen|natural|||
+|Doppel-|Double-|||
+|Taktangabe||||
+|Taktwechsel||||
+|----------|---------|||
+| **Tonalität** | Tonality |  |  |
+|Tonart|Key|||
+|Dur|Major|||
+|Moll|Minor|||
+|Enharmonische Werwechslung|Enharmonic|||
 | Stuffentheorie | Roman numeral analysis |  |  |
+|Stuffen|Scale degree|||
+| Harmonie | Harmony |  |  |
 | Funktionstheorie | Functional theory |  |  |
+|---------|---------|||
+| **Intervall** | Interval | Zusammenklang/Klanggemisch |  |
+|Groß|Major|||
+|Klein|Minor|||
+|Reine |perfect|||
+|übermäßige|augmented|||
+|vermindert|diminished|||
+|Umkehrung|Inversion|||
+|Konsonanz||||
+|Dissonanz||||
+|Vollkomene||||
+|Unvollkommene||||
+|-----|------|||
+|Prima|Prima|||
+|Sekunde|Second|||
+|Terz|Third|||
+|Quarte|Fourth|||
+|Quinte|Fifth|||
+|Sexte|Sixth|||
+|Septime|Seventh|||
+|Oktave|Octave|||
+|Tritonus|Triton|||
+|-----|-----|||
+| **Akkord** | Chord | Zusammenklang/Klanggemisch |  |
+|Dreiklang|Triad|||
+|Septakkord|Seventhchord|||
+|Nonakkord|Nineth|||
+|Grundton|Root|||
+|Bass|Bass|||
+|Terzlage||||
+|Quintlage||||
+|Oktavlage||||
+|Orgelpunkt|Pedal point|||
+|Akkordfremdton|nonchord tone|||
+|Durchgangsnote|passing tone|||
+|Wechselnote|neighbor tone||auxiliary note|
+|Antizipation|Anticipation|||
+|Vorhalt|Suspension|||
+||escape tone|||
+|----|----|||
+| **Tonsatz** | Texture| | |
+|Melodie|Melody|||
+|Monophonie|Monophony|||
+|Homophonie|Homophony|||
+|Polyphonie|Polyphony|||
+|------|------|||
+| **Instrument** | Instrument |  |  |
+|Klavier|Piano||||
+|Stimme|Voice||||
+|-----|–––––|
+| **Rhytmus** | rhytm | Puls |  |
+|Punktierte Note||||
+|Haltebogen||||
+|Phrasierungsbogen||||
+|Legatobogen||||
+|Duole||||
+|Triole||||
+|Quartole||||
+|Quintole||||
+|Sextole||||
+|Septole||||
+|Verzierung||||
+|Vorschlag||||
+|Triller||||
+|staccato||||
+|legato||||
+|Auftakt|||
+|Volltakt|||
+|------|––––|||
+| **Tempo** | Tempo | Zeit | Time |
 |  |  |  |  |

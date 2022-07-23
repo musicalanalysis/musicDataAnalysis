@@ -23,7 +23,9 @@ Characteristik von Ton:
 
 ## 1. Ton
 
-- harmonische analyse (Physik)
+- Wellenform, Frequenz(Physik)
+
+- Teiltöne(harmonische) (Physik)
 
 - Naturtonreihe (musik Theorie)
 
@@ -33,29 +35,24 @@ Characteristik von Ton:
 
 ## 2. Intensität
 
-* pegel (Physik, Elektronik)
+- pegel (Physik, Elektronik)
 
-* Lautstärke, Lautheit (Physik, Akustik)
+- Lautstärke, Lautheit (Physik, Akustik)
 
-* Dynamik (Musik Theorie)
+- Dynamik (Musik Theorie)
 
 ## 3.Timbre (Klangfarbe)
 
-* Harmonischetonreihe (Musik Theorie)
+- Harmonischetonreihe (Musik Theorie)
 
-* Fermanten, Form von klangwelle (Physik)
+- Fermanten, Form von klangwelle (Physik)
 
-* Instrumenten (Akustik)
+- Instrumenten (Akustik)
 
 ## 4.Tondauer
 
-* Zeit (Physic)
+- Zeit (Physic)
 
-* Notenwert (Musiktheory)
+- Notenwert (Musiktheory)
 
-## 5.Notensystem
 
-* Tonhöhe
-* Notationsystem(Natürtonreihe,  ein basis)
-* stimmung/ temperatur
-* Scale/Tonreihe , ein basis für Notenschrift

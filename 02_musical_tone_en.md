@@ -1,6 +1,6 @@
 # Musical tone (Plan-english)
 
-By *computational(digital) music analysis* the first basic knowledge is a **musical tone**. The musical tone will be hier explained and visualised from different dimensions:
+By *digital music analysis* the first basic knowledge is a **musical tone**. The musical tone will be hier explained and visualised from different dimensions:
 
 - Physic  
 
@@ -8,8 +8,7 @@ By *computational(digital) music analysis* the first basic knowledge is a **musi
 
 - Music theory
 
-
-**Musical tone** is a periodic sound, characterised by:
+**Musical tone** is a periodic sound, characterised by his:
 
 - Duration
 
@@ -23,24 +22,27 @@ By *computational(digital) music analysis* the first basic knowledge is a **musi
 
  Every tone is a complex tone. Complex tone - combination of many simple periodic waves(pure tones), harmonically related.
 
-- Harmonic series (Physic)
+### 1.1 Pitch 
 
-  - circle motion
+- waveform, Frequency (Hz)
 
-  - waveform
+### 1.2 Harmonic series 
+
+- circle motion (Physic)
 
 - Partials (Music theory)
 
 - Harmonic analysis (Mathematic)
 
-  - Trigonometric polinomial, derivatives (Realplane)
+- Trigonometric polinomial, derivatives (Realplane)
 
-  - complexe plane, vector(Linear Algebra), fourier coefficient
+- complexe plane, vector(Linear Algebra), fourier coefficient
 
-  - fourieseries
+- fourieseries
      > "any periodic waveform can be approximated as a sum of a serias of sinusoidal (sine,cosine) waves" (Furier theorem)
 
-  - Furier transform - Frequenz domain of a ton 
+- Furier transform - Frequenz domain of a ton 
+
 
 ## 2. Intencity
 
@@ -64,12 +66,3 @@ By *computational(digital) music analysis* the first basic knowledge is a **musi
 
 - Noteduration (Musciktheory)
 
-## 5. Notesystem is based on the harmonic series
-
-- partialscale (Physic)
-
-- Tonsystem (Musictheory, Physic)
-
-- Tunning
-
-- Scale
