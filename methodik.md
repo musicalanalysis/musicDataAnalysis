@@ -25,7 +25,7 @@ bevor wir ein schwieriges Algoritm für Musikalische Analyse sofort umsetzen,, b
 
 Die wissenschaftliche Gebiete für Implementation von Algorithmen :
 
-1. Mathematik (Harmonische analyse, Funktionsanalyse, Linearalgebra, Komplexeebene, Calculus)
+1. Mathematik (Harmonische analyse, Funktionsanalyse, Linearalgebra, Komplexeebene, Calculus) für die Implementation. Der Computer ist eigentlich ein großer **Rechner**
 
 2. Physik (Akustik, Schall)
 
