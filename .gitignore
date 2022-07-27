@@ -1,4 +1,7 @@
 
-#ignore my Desktop
+# OS generated files
 
-*.DS_Store
+**/.DS_Store
+**/.DS_Store?
+
+
