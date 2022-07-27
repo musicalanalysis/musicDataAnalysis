@@ -12,7 +12,7 @@ Die Ergebnisse können gut gebraucht sein in:
 
 - **Musikforschung**
 
-- **Musikindustry**
+- **Musikindustrie**
 
 - **MIR**
 
