@@ -1,4 +1,8 @@
-### Die wisenschaftliche einstimmung (Äquivalent) von musicalische Begriffen in Deutsch und Englisch (Tabelle)
+# Musikalische Begriffen
+
+wir brauchen ganz genau wissenschaftliche Kenntnise von Musikalische Begriffen in [Theorie](musik_charakteristik.md). Aber für Implementieren werden nur wissenschaftliche englische (americanische) Begriffen benutzt. 
+## Die wisenschaftliche einstimmung (Äquivalent) von musikalische Begriffen in Deutsch und Englisch (Tabelle)
+
 
 | Musiktheorie | Music theory | Elektro-akustik | Electro-acustic |
 |:---:|:---:|:---:|:---:|
