@@ -1,9 +1,9 @@
 
-# Musik Datenannalyse 
+# Musik Datenanalyse 
 
 Bei Musik Datenanalyse steht im Mittelpukt das Wort **Analyse**. Die Musikdaten werden erfasst, analysiert und bestimmte Ergebnisse präsentiert. 
 
-Das *Ziel ist- die neue Information, Erkenntnisse über Musik aus digitale Daten zu bekommen und dann sie representiren. 
+Das Ziel ist- die neue Information, Erkenntnisse über Musik aus digitale Daten zu bekommen und dann sie representiren. 
 Die Ergebnisse können gut gebraucht sein in: 
 
 - **Application**
