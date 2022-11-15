@@ -55,9 +55,9 @@ graph TD;
 ## [Musikalische  Charakteristik](musik_charakteristik.md)
 
 ### Fundamentale Charakteristik von Musik : 
-### 1.  [Ton](musik_datenanalyse/ton.md)
+### 1.  Ton
   
-### 2. [Tonsystem](musik_datenanalyse/tonsystem.md)
+### 2. Tonsystem
 
 ### 3.  Dynamik
 
@@ -67,20 +67,35 @@ graph TD;
 
 ### 6.  Timbre,Klangfarbe
 
-### Die komplexe Analyse: 
+## Die komplexe Analyse: 
 
-### 1.  Melodie
+### 1.  Melodie analyse
 
-### 2.   Harmonie
-### 3. Tonsatz
+### 2. Tongemisch-Klangfarbe Analyse (Intervall, Akkord)
 
-### 4. Form, Struktur
+### 3. Instrument (Klangfarbe) analyse
+
+### 4. Stimme (Klangfarbe) analyse
+
+### 5. Skale analyse
+
+### 6. Akkordenanalyse (Stuffentheorie)
+### 7. Tonalität analyse
+
+### 8. Harmonie analyse (Funktionstheorie)
+### 9. Tonsatz 
+
+## Super- komplexe analyse: 
+### 1. Form, Struktur analyse
+
+### 2. Style analyse 
+
+
 
 ----
 # Anhang:
 
 ## [Methodik](methodik.md)
-## [Implementation](implementation/mathematik.md)
 
 ## [Musikalische Begriffe in Deutsch und Enlisch](begriffe.md)
 ## [Referenzen](Quellen.md)
